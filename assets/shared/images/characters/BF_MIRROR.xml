@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="BF_MIRROR.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BF MIRROR <0000" x="0" y="0" width="1084" height="890"/>
+	<SubTexture name="BF MIRROR <0001" x="0" y="0" width="1084" height="890"/>
+	<SubTexture name="BF MIRROR <0002" x="1084" y="0" width="1084" height="890"/>
+	<SubTexture name="BF MIRROR <0003" x="1084" y="0" width="1084" height="890"/>
+	<SubTexture name="BF MIRROR <0004" x="1084" y="0" width="1084" height="890"/>
+	<SubTexture name="BF MIRROR <0005" x="1084" y="0" width="1084" height="890"/>
+	<SubTexture name="BF MIRROR <0006" x="1084" y="0" width="1084" height="890"/>
+	<SubTexture name="BF MIRROR <0007" x="0" y="0" width="1084" height="890"/>
+	<SubTexture name="BF MIRROR < MISS0000" x="2168" y="0" width="1084" height="890"/>
+	<SubTexture name="BF MIRROR < MISS0001" x="2168" y="0" width="1084" height="890"/>
+	<SubTexture name="BF MIRROR < MISS0002" x="2168" y="0" width="1084" height="890"/>
+	<SubTexture name="BF MIRROR < MISS0003" x="2168" y="0" width="1084" height="890"/>
+	<SubTexture name="BF MIRROR < MISS0004" x="2168" y="0" width="1084" height="890"/>
+	<SubTexture name="BF MIRROR < MISS0005" x="2168" y="0" width="1084" height="890"/>
+	<SubTexture name="BF MIRROR < MISS0006" x="2168" y="0" width="1084" height="890"/>
+	<SubTexture name="BF MIRROR < MISS0007" x="2168" y="0" width="1084" height="890"/>
+	<SubTexture name="BF MIRROR >0000" x="0" y="890" width="1084" height="890"/>
+	<SubTexture name="BF MIRROR >0001" x="0" y="890" width="1084" height="890"/>
+	<SubTexture name="BF MIRROR >0002" x="1084" y="890" width="1084" height="890"/>
+	<SubTexture name="BF MIRROR >0003" x="1084" y="890" width="1084" height="890"/>
+	<SubTexture name="BF MIRROR >0004" x="1084" y="890" width="1084" height="890"/>
+	<SubTexture name="BF MIRROR >0005" x="1084" y="890" width="1084" height="890"/>
+	<SubTexture name="BF MIRROR > MISS0000" x="2168" y="890" width="1084" height="890"/>
+	<SubTexture name="BF MIRROR > MISS0001" x="2168" y="890" width="1084" height="890"/>
+	<SubTexture name="BF MIRROR > MISS0002" x="2168" y="890" width="1084" height="890"/>
+	<SubTexture name="BF MIRROR > MISS0003" x="2168" y="890" width="1084" height="890"/>
+	<SubTexture name="BF MIRROR > MISS0004" x="2168" y="890" width="1084" height="890"/>
+	<SubTexture name="BF MIRROR > MISS0005" x="2168" y="890" width="1084" height="890"/>
+	<SubTexture name="BF MIRROR > MISS0006" x="2168" y="890" width="1084" height="890"/>
+	<SubTexture name="BF MIRROR > MISS0007" x="2168" y="890" width="1084" height="890"/>
+	<SubTexture name="BF MIRROR DOWN0000" x="0" y="1780" width="1084" height="890"/>
+	<SubTexture name="BF MIRROR DOWN0001" x="0" y="1780" width="1084" height="890"/>
+	<SubTexture name="BF MIRROR DOWN0002" x="1084" y="1780" width="1084" height="890"/>
+	<SubTexture name="BF MIRROR DOWN0003" x="1084" y="1780" width="1084" height="890"/>
+	<SubTexture name="BF MIRROR DOWN0004" x="1084" y="1780" width="1084" height="890"/>
+	<SubTexture name="BF MIRROR DOWN0005" x="1084" y="1780" width="1084" height="890"/>
+	<SubTexture name="BF MIRROR DOWN0006" x="1084" y="1780" width="1084" height="890"/>
+	<SubTexture name="BF MIRROR DOWN MISS0000" x="2168" y="1780" width="1084" height="890"/>
+	<SubTexture name="BF MIRROR UP0000" x="0" y="2670" width="1084" height="890"/>
+	<SubTexture name="BF MIRROR UP0001" x="0" y="2670" width="1084" height="890"/>
+	<SubTexture name="BF MIRROR UP0002" x="1084" y="2670" width="1084" height="890"/>
+	<SubTexture name="BF MIRROR UP0003" x="1084" y="2670" width="1084" height="890"/>
+	<SubTexture name="BF MIRROR UP0004" x="1084" y="2670" width="1084" height="890"/>
+	<SubTexture name="BF MIRROR UP0005" x="1084" y="2670" width="1084" height="890"/>
+	<SubTexture name="BF MIRROR UP0006" x="1084" y="2670" width="1084" height="890"/>
+	<SubTexture name="BF MIRROR UP MISS0000" x="2168" y="2670" width="1084" height="890"/>
+	<SubTexture name="BF MIRROR UP MISS0001" x="2168" y="2670" width="1084" height="890"/>
+	<SubTexture name="BF MIRROR UP MISS0002" x="2168" y="2670" width="1084" height="890"/>
+	<SubTexture name="BF MIRROR UP MISS0003" x="2168" y="2670" width="1084" height="890"/>
+	<SubTexture name="BF MIRROR UP MISS0004" x="2168" y="2670" width="1084" height="890"/>
+	<SubTexture name="BF MIRROR UP MISS0005" x="2168" y="2670" width="1084" height="890"/>
+	<SubTexture name="BF MIRROR UP MISS0006" x="2168" y="2670" width="1084" height="890"/>
+	<SubTexture name="BF MIRROR UP MISS0007" x="2168" y="2670" width="1084" height="890"/>
+	<SubTexture name="MUERTE0000" x="3252" y="2670" width="26" height="26"/>
+</TextureAtlas>

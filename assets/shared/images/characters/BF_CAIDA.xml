@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="BF_CAIDA.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BF POSES MISS0000" x="680" y="0" width="680" height="599"/>
+	<SubTexture name="BF POSES MISS0001" x="0" y="0" width="680" height="599"/>
+	<SubTexture name="BF POSES MISS0002" x="0" y="0" width="680" height="599"/>
+	<SubTexture name="BF POSES MISS0003" x="0" y="0" width="680" height="599"/>
+	<SubTexture name="BF POSES MISS0004" x="0" y="0" width="680" height="599"/>
+	<SubTexture name="BF POSES MISS0005" x="0" y="0" width="680" height="599"/>
+	<SubTexture name="BF POSES MISS0006" x="0" y="0" width="680" height="599"/>
+	<SubTexture name="BF POSES MISS0007" x="0" y="0" width="680" height="599"/>
+	<SubTexture name="BF POSES MISS0008" x="0" y="0" width="680" height="599"/>
+	<SubTexture name="BF POSES MISS0009" x="0" y="0" width="680" height="599"/>
+	<SubTexture name="BF POSES MISS0010" x="0" y="0" width="680" height="599"/>
+	<SubTexture name="BF POSES XD0000" x="680" y="0" width="680" height="599"/>
+	<SubTexture name="BF POSES XD0001" x="1360" y="0" width="680" height="599"/>
+	<SubTexture name="BF POSES XD0002" x="1360" y="0" width="680" height="599"/>
+	<SubTexture name="BF POSES XD0003" x="1360" y="0" width="680" height="599"/>
+	<SubTexture name="BF POSES XD0004" x="1360" y="0" width="680" height="599"/>
+	<SubTexture name="BF POSES XD0005" x="1360" y="0" width="680" height="599"/>
+	<SubTexture name="BF POSES XD0006" x="1360" y="0" width="680" height="599"/>
+	<SubTexture name="BF POSES XD0007" x="1360" y="0" width="680" height="599"/>
+	<SubTexture name="BF POSES XD0008" x="1360" y="0" width="680" height="599"/>
+	<SubTexture name="BF POSES XD0009" x="1360" y="0" width="680" height="599"/>
+	<SubTexture name="BF POSES XD0010" x="1360" y="0" width="680" height="599"/>
+	<SubTexture name="BF SILLA IDLE0000" x="0" y="599" width="680" height="599"/>
+	<SubTexture name="MUERTE0000" x="680" y="599" width="26" height="26"/>
+</TextureAtlas>

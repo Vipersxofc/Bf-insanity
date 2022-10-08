@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="BF DANCE.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="MISS FANS0000" x="0" y="0" width="746" height="814"/>
+	<SubTexture name="MISS FANS0001" x="746" y="0" width="746" height="814"/>
+	<SubTexture name="MISS FANS0002" x="1492" y="0" width="746" height="814"/>
+	<SubTexture name="MISS FANS0003" x="1492" y="0" width="746" height="814"/>
+	<SubTexture name="MISS FANS0004" x="1492" y="0" width="746" height="814"/>
+	<SubTexture name="MISS FANS0005" x="1492" y="0" width="746" height="814"/>
+	<SubTexture name="MISS FANS0006" x="1492" y="0" width="746" height="814"/>
+	<SubTexture name="MISS FANS0007" x="1492" y="0" width="746" height="814"/>
+	<SubTexture name="MISS FANS0008" x="1492" y="0" width="746" height="814"/>
+	<SubTexture name="MUERTE0000" x="2238" y="0" width="26" height="26"/>
+	<SubTexture name="bf dans0000" x="2264" y="0" width="747" height="814"/>
+	<SubTexture name="bf dans0001" x="3011" y="0" width="747" height="814"/>
+	<SubTexture name="bf dans0002" x="0" y="814" width="747" height="814"/>
+	<SubTexture name="bf dans0003" x="747" y="814" width="747" height="814"/>
+	<SubTexture name="bf dans0004" x="1494" y="814" width="747" height="814"/>
+	<SubTexture name="bf dans0005" x="2241" y="814" width="747" height="814"/>
+	<SubTexture name="bf dans0006" x="1494" y="814" width="747" height="814"/>
+	<SubTexture name="bf dans0007" x="747" y="814" width="747" height="814"/>
+	<SubTexture name="bf dans0008" x="2264" y="0" width="747" height="814"/>
+	<SubTexture name="bf dans0009" x="2988" y="814" width="747" height="814"/>
+	<SubTexture name="bf dans0010" x="0" y="1628" width="747" height="814"/>
+	<SubTexture name="bf dans0011" x="747" y="1628" width="747" height="814"/>
+	<SubTexture name="bf dans0012" x="1494" y="1628" width="747" height="814"/>
+	<SubTexture name="bf dans0013" x="2241" y="1628" width="747" height="814"/>
+	<SubTexture name="bf dans0014" x="1494" y="1628" width="747" height="814"/>
+	<SubTexture name="bf dans0015" x="747" y="1628" width="747" height="814"/>
+</TextureAtlas>

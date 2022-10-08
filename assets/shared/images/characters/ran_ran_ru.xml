@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="ran_ran_ru.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="MUERTE0000" x="0" y="0" width="40" height="40"/>
+	<SubTexture name="RAN DOWN > MISS0000" x="40" y="0" width="568" height="801"/>
+	<SubTexture name="RAN DOWN > MISS0001" x="40" y="0" width="568" height="801"/>
+	<SubTexture name="RAN DOWN > MISS0002" x="40" y="0" width="568" height="801"/>
+	<SubTexture name="RAN DOWN > MISS0003" x="40" y="0" width="568" height="801"/>
+	<SubTexture name="RAN DOWN > MISS0004" x="40" y="0" width="568" height="801"/>
+	<SubTexture name="RAN DOWN > MISS0005" x="40" y="0" width="568" height="801"/>
+	<SubTexture name="RAN DOWN > MISS0006" x="40" y="0" width="568" height="801"/>
+	<SubTexture name="RAN DOWN > MISS0007" x="40" y="0" width="568" height="801"/>
+	<SubTexture name="RAN DOWN > MISS0008" x="40" y="0" width="568" height="801"/>
+	<SubTexture name="RAN DOWN > MISS0009" x="40" y="0" width="568" height="801"/>
+	<SubTexture name="RAN DOWN > MISS0010" x="40" y="0" width="568" height="801"/>
+	<SubTexture name="RAN DOWN AND >0000" x="608" y="0" width="810" height="1092"/>
+	<SubTexture name="RAN DOWN AND >0001" x="608" y="0" width="810" height="1092"/>
+	<SubTexture name="RAN DOWN AND >0002" x="1418" y="0" width="810" height="1092"/>
+	<SubTexture name="RAN DOWN AND >0003" x="1418" y="0" width="810" height="1092"/>
+	<SubTexture name="RAN DOWN AND >0004" x="1418" y="0" width="810" height="1092"/>
+	<SubTexture name="RAN DOWN AND >0005" x="1418" y="0" width="810" height="1092"/>
+	<SubTexture name="RAN DOWN AND >0006" x="1418" y="0" width="810" height="1092"/>
+	<SubTexture name="RAN DOWN AND >0007" x="1418" y="0" width="810" height="1092"/>
+	<SubTexture name="RAN DOWN AND >0008" x="1418" y="0" width="810" height="1092"/>
+	<SubTexture name="RAN DOWN AND >0009" x="1418" y="0" width="810" height="1092"/>
+	<SubTexture name="RAN DOWN AND >0010" x="1418" y="0" width="810" height="1092"/>
+	<SubTexture name="RAN UP < MISS0000" x="2228" y="0" width="568" height="811"/>
+	<SubTexture name="RAN UP < MISS0001" x="2228" y="0" width="568" height="811"/>
+	<SubTexture name="RAN UP < MISS0002" x="2228" y="0" width="568" height="811"/>
+	<SubTexture name="RAN UP < MISS0003" x="2228" y="0" width="568" height="811"/>
+	<SubTexture name="RAN UP < MISS0004" x="2228" y="0" width="568" height="811"/>
+	<SubTexture name="RAN UP < MISS0005" x="2228" y="0" width="568" height="811"/>
+	<SubTexture name="RAN UP < MISS0006" x="2228" y="0" width="568" height="811"/>
+	<SubTexture name="RAN UP < MISS0007" x="2228" y="0" width="568" height="811"/>
+	<SubTexture name="RAN UP < MISS0008" x="2228" y="0" width="568" height="811"/>
+	<SubTexture name="RAN UP < MISS0009" x="2228" y="0" width="568" height="811"/>
+	<SubTexture name="RAN UP < MISS0010" x="2228" y="0" width="568" height="811"/>
+	<SubTexture name="RAN UP AND <0000" x="2796" y="0" width="810" height="1092"/>
+	<SubTexture name="RAN UP AND <0001" x="2796" y="0" width="810" height="1092"/>
+	<SubTexture name="RAN UP AND <0002" x="0" y="1092" width="810" height="1092"/>
+	<SubTexture name="RAN UP AND <0003" x="0" y="1092" width="810" height="1092"/>
+	<SubTexture name="RAN UP AND <0004" x="0" y="1092" width="810" height="1092"/>
+	<SubTexture name="RAN UP AND <0005" x="0" y="1092" width="810" height="1092"/>
+	<SubTexture name="RAN UP AND <0006" x="0" y="1092" width="810" height="1092"/>
+	<SubTexture name="RAN UP AND <0007" x="0" y="1092" width="810" height="1092"/>
+	<SubTexture name="RAN UP AND <0008" x="0" y="1092" width="810" height="1092"/>
+	<SubTexture name="RAN UP AND <0009" x="0" y="1092" width="810" height="1092"/>
+	<SubTexture name="RAN UP AND <0010" x="0" y="1092" width="810" height="1092"/>
+	<SubTexture name="RUUU0000" x="810" y="1092" width="596" height="973"/>
+	<SubTexture name="RUUU0001" x="810" y="1092" width="596" height="973"/>
+	<SubTexture name="RUUU0002" x="1406" y="1092" width="596" height="973"/>
+	<SubTexture name="RUUU0003" x="1406" y="1092" width="596" height="973"/>
+	<SubTexture name="RUUU0004" x="1406" y="1092" width="596" height="973"/>
+	<SubTexture name="RUUU0005" x="1406" y="1092" width="596" height="973"/>
+	<SubTexture name="RUUU0006" x="1406" y="1092" width="596" height="973"/>
+	<SubTexture name="RUUU0007" x="1406" y="1092" width="596" height="973"/>
+	<SubTexture name="RUUU0008" x="1406" y="1092" width="596" height="973"/>
+	<SubTexture name="RUUU0009" x="1406" y="1092" width="596" height="973"/>
+	<SubTexture name="RUUU0010" x="1406" y="1092" width="596" height="973"/>
+</TextureAtlas>

@@ -1,0 +1,199 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				220,
+				591
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "RAN UP AND <"
+		},
+		{
+			"offsets": [
+				220,
+				591
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "RAN UP AND <"
+		},
+		{
+			"offsets": [
+				220,
+				591
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "RAN DOWN AND >"
+		},
+		{
+			"offsets": [
+				220,
+				591
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "RAN UP AND <"
+		},
+		{
+			"offsets": [
+				220,
+				591
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "RAN DOWN AND >"
+		},
+		{
+			"offsets": [
+				119,
+				491
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singUP-alt",
+			"indices": [],
+			"name": "RUUU"
+		},
+		{
+			"offsets": [
+				119,
+				491
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singLEFT-alt",
+			"indices": [],
+			"name": "RUUU"
+		},
+		{
+			"offsets": [
+				119,
+				491
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singDOWN-alt",
+			"indices": [],
+			"name": "RUUU"
+		},
+		{
+			"offsets": [
+				119,
+				491
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singRIGHT-alt",
+			"indices": [],
+			"name": "RUUU"
+		},
+		{
+			"offsets": [
+				101,
+				326
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "RAN UP < MISS"
+		},
+		{
+			"offsets": [
+				103,
+				316
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "RAN DOWN > MISS"
+		},
+		{
+			"offsets": [
+				102,
+				326
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "RAN UP < MISS"
+		},
+		{
+			"offsets": [
+				103,
+				315
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "RAN DOWN > MISS"
+		},
+		{
+			"offsets": [
+				-150,
+				-98
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "firstDeath",
+			"indices": [],
+			"name": "MUERTE"
+		},
+		{
+			"offsets": [
+				-150,
+				-101
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "deathLoop",
+			"indices": [],
+			"name": "MUERTE"
+		},
+		{
+			"offsets": [
+				-148,
+				-103
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "deathConfirm",
+			"indices": [],
+			"name": "MUERTE"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/ran_ran_ru",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		-290,
+		50
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bubbles.png">
+	<!-- Created with Adobe Animate version 22.0.8.217 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Bubbles0000" x="0" y="0" width="1838" height="1688" frameX="0" frameY="-2370" frameWidth="1838" frameHeight="4058"/>
+	<SubTexture name="Bubbles0001" x="1838" y="0" width="1838" height="1727" frameX="0" frameY="-2202" frameWidth="1838" frameHeight="4058"/>
+	<SubTexture name="Bubbles0002" x="3676" y="0" width="1838" height="1765" frameX="0" frameY="-2034" frameWidth="1838" frameHeight="4058"/>
+	<SubTexture name="Bubbles0003" x="5514" y="0" width="1838" height="1804" frameX="0" frameY="-1866" frameWidth="1838" frameHeight="4058"/>
+	<SubTexture name="Bubbles0004" x="0" y="1804" width="1838" height="1843" frameX="0" frameY="-1698" frameWidth="1838" frameHeight="4058"/>
+	<SubTexture name="Bubbles0005" x="1838" y="1804" width="1838" height="1880" frameX="0" frameY="-1531" frameWidth="1838" frameHeight="4058"/>
+	<SubTexture name="Bubbles0006" x="3676" y="1804" width="1838" height="1919" frameX="0" frameY="-1363" frameWidth="1838" frameHeight="4058"/>
+	<SubTexture name="Bubbles0007" x="5514" y="1804" width="1838" height="1957" frameX="0" frameY="-1195" frameWidth="1838" frameHeight="4058"/>
+	<SubTexture name="Bubbles0008" x="0" y="3761" width="1838" height="1995" frameX="0" frameY="-1028" frameWidth="1838" frameHeight="4058"/>
+	<SubTexture name="Bubbles0009" x="1838" y="3761" width="1838" height="2034" frameX="0" frameY="-860" frameWidth="1838" frameHeight="4058"/>
+	<SubTexture name="Bubbles0010" x="3676" y="3761" width="1838" height="2072" frameX="0" frameY="-692" frameWidth="1838" frameHeight="4058"/>
+	<SubTexture name="Bubbles0011" x="5514" y="3761" width="1838" height="2111" frameX="0" frameY="-524" frameWidth="1838" frameHeight="4058"/>
+	<SubTexture name="Bubbles0012" x="0" y="5872" width="1838" height="2149" frameX="0" frameY="-356" frameWidth="1838" frameHeight="4058"/>
+	<SubTexture name="Bubbles0013" x="1838" y="5872" width="1838" height="2188" frameX="0" frameY="-188" frameWidth="1838" frameHeight="4058"/>
+	<SubTexture name="Bubbles0014" x="3676" y="5872" width="1838" height="2227" frameX="0" frameY="-20" frameWidth="1838" frameHeight="4058"/>
+	<SubTexture name="Bubbles0015" x="5514" y="5872" width="1838" height="2097" frameX="0" frameY="-20" frameWidth="1838" frameHeight="4058"/>
+</TextureAtlas>
